@@ -1,3 +1,6 @@
+# This repository was created only for educational propositions
+# It is not intended to be deployed to production
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
