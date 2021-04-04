@@ -1,5 +1,6 @@
 # This repository was created only for educational propositions
 # It is not intended to be deployed to production
+How it works? --> https://mauriciog87.github.io/react-giftexpertapp/
 
 # Getting Started with Create React App
 
